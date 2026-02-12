@@ -19,10 +19,6 @@ This implementation follows the requirements outlined in the Secure Test Environ
 
 ---
 
-### 🔗Live Demo 
-
-👉 
-
 ### 🔗 Repo 
 
 👉 https://github.com/mugunthanm2k/STEE-React
